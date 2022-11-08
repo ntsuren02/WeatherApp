@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.39947916666666666" />
+        <entry key="..\:/Users/niven/AndroidStudioProjects/myweather/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="app/src/main/res/drawable/ic_cloudy.xml" value="0.2965" />
+        <entry key="app/src/main/res/drawable/oval.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/underline.xml" value="0.246" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/city_no_content.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/city_no_coontent.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/forecast_item.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/found_city_content.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/fragment_forecast.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_forecast_details.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_location_not_found.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/fragment_search_city.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.3729166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

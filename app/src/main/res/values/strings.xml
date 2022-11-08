@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_found_text">Location not found</string>
+    <string name="content_description">weather icon</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Check Weather for City</string>
+    <string name="title_forecast">Forecast</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="city_name_hint">Type a city name</string>
+    <string name="btn_search_text">Search</string>
+    <string name="search_again_text">Search Again</string>
+</resources>
